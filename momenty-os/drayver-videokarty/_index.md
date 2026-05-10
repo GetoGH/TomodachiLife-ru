@@ -21,14 +21,14 @@ title: Драйвер видеокарты
 
 ## Nvidia
 
-<video path="https://rutube.ru/video/09e6f958a07215d677ab007cb0d35406/?r=wd"/>
+Если видео не загружаются, перейдите по ссылкам под ними
 
-
+<video path="https://rutube.ru/video/09e6f958a07215d677ab007cb0d35406/?r=wd" title="https://rutube.ru/video/09e6f958a07215d677ab007cb0d35406/?r=wd"/>
 
 ## AMD
 
-<video path="https://rutube.ru/video/8b85e22642c600bc8aadf9f32a5d3dd5/?r=wd"/>
+<video path="https://rutube.ru/video/8b85e22642c600bc8aadf9f32a5d3dd5/?r=wd" title="https://rutube.ru/video/8b85e22642c600bc8aadf9f32a5d3dd5/?r=wd"/>
 
 ## Intel
 
-<video path="https://rutube.ru/video/2cde7b147b5bdc2a35cb6354ba1a6087/?r=wd"/>
+<video path="https://rutube.ru/video/2cde7b147b5bdc2a35cb6354ba1a6087/?r=wd" title="https://rutube.ru/video/2cde7b147b5bdc2a35cb6354ba1a6087/?r=wd"/>
