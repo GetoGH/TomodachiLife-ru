@@ -3,7 +3,7 @@ order: 3
 title: Ключи и firmware
 ---
 
-<img src="./klyuchi.png" crop="0,0,100,100" width="433px" height="179px" float="right"/>
+![](./klyuchi.png){width=433px height=179px}
 
 ## Ключи
 
@@ -13,4 +13,4 @@ title: Ключи и firmware
 
 ## Firmware
 
-Оно должно быть той же версии, что и ключи. А так же самоё последней версии. Поэтому качайте всё из моего [тгк](./../osnovnaya-informaciya.md), либо из [гугл диска](./../osnovnaya-informaciya.md).
+Оно должно быть той же версии, что и ключи. А так же самоё последней версии. Поэтому качайте всё из моего [тгк](./../osnovnaya-informaciya/_index.md), либо из [гугл диска](./../osnovnaya-informaciya/_index.md).

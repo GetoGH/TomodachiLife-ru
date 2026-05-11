@@ -13,7 +13,7 @@ title: "ТОРРЕНТ: КАК УСТАНОВИТЬ"
 
 Возможно, торрент клиент у вас уже есть. μTorrent является самым популярным торрент клиентом, и если вы уже видели у себя на компьютере эту иконку, то можете использовать его.
 
-<image src="./torrenty.png" crop="0,0,100,100" scale="18" width="500px" height="498px" float="left"/>
+<img src="./torrenty.png" crop="0,0,100,100" scale="18" width="500px" height="498px" float="left"/>
 
 
 
@@ -29,9 +29,9 @@ title: "ТОРРЕНТ: КАК УСТАНОВИТЬ"
 
 Вот, как скачать его с [официального сайта:](https://www.qbittorrent.org/download)
 
-<image src="./torrenty-3.png" crop="0,0,100,100" scale="74" width="1543px" height="953px" float="center"/>
+<img src="./torrenty-3.png" crop="0,0,100,100" scale="74" width="1543px" height="953px" float="center"/>
 
-<image src="./torrenty-2.png" crop="0,0,100,100" scale="74" width="1408px" height="896px" float="center"/>
+<img src="./torrenty-2.png" crop="0,0,100,100" scale="74" width="1408px" height="896px" float="center"/>
 
 Вам скачается установщик. Запускаете его, тыкаете далее пока не закончится установка.
 
@@ -39,11 +39,11 @@ title: "ТОРРЕНТ: КАК УСТАНОВИТЬ"
 
 <https://t.me/TomodachiLifeRu/3> --Пост в моём тгк с торрент файлом. Сам файл я скачал с Рутрекера.
 
-Так же можете скачать файл с Гугл диска. Ссылка на диск в [основной информации.](./../osnovnaya-informaciya)
+Так же можете скачать файл с Гугл диска. Ссылка на диск в [основной информации.](./../osnovnaya-informaciya/_index.md)
 
 ## Как установить?
 
-1. Найдите у себя в проводнике скачанный торрент файл. 
+1. Найдите у себя в проводнике скачанный торрент файл.
 
 2. Кликните по нему дважды, если высвечивается окно выберите приложение, то выберите там ваш торрент клиент
 
@@ -51,9 +51,9 @@ title: "ТОРРЕНТ: КАК УСТАНОВИТЬ"
 
 
 
-<image src="./torrenty-5.png" crop="0,0,100,100" scale="68" width="1003px" height="795px" float="center"/>
+<img src="./torrenty-5.png" crop="0,0,100,100" scale="68" width="1003px" height="795px" float="center"/>
 
-<image src="./torrenty-4.png" crop="0,0,100,100" scale="68" objects="square,22.1122,1.0929,27.8328,6.8306,прогресс,top-left&square,36.7437,72.9508,20.352,4.7814,сколько осталось,top-left" width="909px" height="732px" float="center"/>
+<img src="./torrenty-4.png" crop="0,0,100,100" scale="68" objects="square,22.1122,1.0929,27.8328,6.8306,прогресс,top-left&square,36.7437,72.9508,20.352,4.7814,сколько осталось,top-left" width="909px" height="732px" float="center"/>
 
 4\. Дождитесь, пока в шкале прогресс не будет значения 100%. Примерное время, за которое скачается игра написано ниже (цифра 2 на прикреплённом фото)
 

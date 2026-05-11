@@ -5,7 +5,7 @@ title: Правильная версия эмулятора
 
 ## Как узнать свою версию эмулятора
 
-<image src="./pravilnaya-versiya-emulyatora.png" crop="0,0,100,100" objects="square,42.9238,70.6306,32.1151,5.2252,,top-left" width="1286px" height="555px" float="center"/>
+<img src="./pravilnaya-versiya-emulyatora.png" crop="0,0,100,100" objects="square,42.9238,70.6306,32.1151,5.2252,,top-left" width="1286px" height="555px" float="center"/>
 
 В консоли при открытии эмулятора сразу под огромной надписью написана версия
 
@@ -17,7 +17,7 @@ title: Правильная версия эмулятора
 
 1. [С официального сайта](https://git.ryujinx.app/Ryubing/Canary/releases), самая новая всегда в самом верху. Вам нужен файл **ryujinx-canary-\[…\]-win_x64.zip,** на нём так же будет больше всего скачиваний.
 
-2. Из моего [тгк или на моём гугл диске](./../osnovnaya-informaciya#ссылки)
+2. Из моего [тгк или на моём гугл диске](./../osnovnaya-informaciya/_index.md#ссылки)
 
 ## Как обновить эмулятор?
 
