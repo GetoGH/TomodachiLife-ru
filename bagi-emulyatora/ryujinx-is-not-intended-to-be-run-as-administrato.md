@@ -3,11 +3,7 @@ order: 7
 title: Ryujinx is not intended to be run as administrator
 ---
 
-[Видео туториал ](https://www.youtube.com/watch?si=qwG2jf9KEHNOCZ6X&v=h2FS-CPUNM8&feature=youtu.be)
-
-<video path="https://www.youtube.com/watch?si=qwG2jf9KEHNOCZ6X&v=h2FS-CPUNM8&feature=youtu.be"/>
-
-
+[Видео туториал ](https://boosty.to/rideoluv/posts/8dddd732-2094-4e5c-8694-49520b37ec8c?share=post_link)
 
 ## Способ 1
 
